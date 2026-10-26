@@ -1,0 +1,11 @@
+пакет {
+    имя = "skyforge-upc"
+    версия = "0.1.0"
+    автор = "SkyPackages"
+    описание = "Валидация штрихкодов UPC-A."
+    репозиторий = "github.com/skytech-alt/skyforge-upc"
+    точка_входа = "code/main.skf"
+    теги = ["utils"]
+    лицензия = "MIT"
+    зависимости = []
+}
